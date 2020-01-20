@@ -81,7 +81,7 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    Exemple rutes i links
+                    Exemple Controladors Restful 1
                 </div>
 
                 <div class="links">
